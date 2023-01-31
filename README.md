@@ -1,2 +1,2 @@
-# if_coloring
-IF coloring macro for ImageJ
+# Immunofluorescence-Staining-Coloring-with-ImageJ
+Check the version of ImageJ and read the comments before using macro.
